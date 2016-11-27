@@ -1,4 +1,4 @@
-# TrabalhoAutomatos3
+# Base para um projeto utilizando JavaFX
 
 Necessita adicionar o plugin JFoenix para usar o Material Desing
 
